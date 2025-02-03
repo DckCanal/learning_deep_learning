@@ -1,4 +1,6 @@
 name: bear-detector
+channels:
+- conda-forge
 dependencies:
 - ipywidgets
 - jupyterlab>=3.1
